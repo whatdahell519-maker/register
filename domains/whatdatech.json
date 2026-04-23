@@ -4,6 +4,9 @@
     "email": "whatdahell519@gmail.com"
   },
   "records": {
-    "TXT": "google-site-verification=yp4XpydkAsBLwcjc1ezTEQfhc4Q_EvarhXU8WiV-L6k"
+    "TXT": "google-site-verification=yp4XpydkAsBLwcjc1ezTEQfhc4Q_EvarhXU8WiV-L6k",
+    "www": {
+      "CNAME": "://googlehosted.com"
+    }
   }
 }
