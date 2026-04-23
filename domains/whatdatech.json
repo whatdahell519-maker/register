@@ -1,9 +1,9 @@
 {
   "owner": {
-    "username": "whatdahell519-maker"
+    "username": "whatdahell519-maker",
+    "email": "whatdahell519@gmail.com"
   },
   "records": {
-    "CNAME": "://googlehosted.com",
-    "TXT": "google-site-verification=yp4XpydkAsBLwcjc1ezTEQfhc4Q_EvarhXU8Wfa2R90"
+    "TXT": "google-site-verification=yp4XpydkAsBLwcjc1ezTEQfhc4Q_EvarhXU8WiV-L6k"
   }
 }
